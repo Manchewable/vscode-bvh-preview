@@ -3,6 +3,11 @@
   "displayName": "vscode-bvh-preview",
   "description": "VS Code BVH Preview",
   "version": "0.0.1",
+  "homepage": "https://github.com/Manchewable/vscode-bvh-preview",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Manchewable/vscode-bvh-preview"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
